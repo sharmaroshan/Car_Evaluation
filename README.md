@@ -4,59 +4,32 @@ Evaluating a Car based on some popular attributes which could be beneficial in d
 Car Evaluation Data Set 
 Download: Data Folder, Data Set Description
 
-Abstract: Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.
+# Abstract:
+Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.
 
 
-Data Set Characteristics:  
-
+# Data Set Characteristics:  
 Multivariate
 
-Number of Instances:
+Number of Instances: 1728
 
-1728
+Area: N/A
 
-Area:
+Attribute Characteristics: Categorical
 
-N/A
+Number of Attributes: 6
 
-Attribute Characteristics:
+Date Donated: 1997-06-01
 
-Categorical
+Associated Tasks: Classification
 
-Number of Attributes:
+Missing Values? No
 
-6
+Number of Web Hits: 980393
 
-Date Donated
+Creator: Marko Bohanec 
 
-1997-06-01
-
-Associated Tasks:
-
-Classification
-
-Missing Values?
-
-No
-
-Number of Web Hits:
-
-980393
-
-
-Source:
-
-Creator: 
-
-Marko Bohanec 
-
-Donors: 
-
-1. Marko Bohanec (marko.bohanec '@' ijs.si) 
-2. Blaz Zupan (blaz.zupan '@' ijs.si)
-
-
-Data Set Information:
+# Data Set Information:
 
 Car Evaluation Database was derived from a simple hierarchical decision model originally developed for the demonstration of DEX, M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.). The model evaluates cars according to the following concept structure: 
 
@@ -84,7 +57,7 @@ Class Values:
 
 unacc, acc, good, vgood 
 
-Attributes: 
+# Attributes: 
 
 buying: vhigh, high, med, low. 
 maint: vhigh, high, med, low. 
@@ -94,7 +67,7 @@ lug_boot: small, med, big.
 safety: low, med, high. 
 
 
-Relevant Papers:
+# Relevant Papers:
 
 M. Bohanec and V. Rajkovic: Knowledge acquisition and explanation for multi-attribute decision making. In 8th Intl Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78, 1988. 
 [Web Link] 
@@ -103,7 +76,7 @@ B. Zupan, M. Bohanec, I. Bratko, J. Demsar: Machine learning by function decompo
 [Web Link]
 
 
-Papers That Cite This Data Set1:
+# Papers That Cite This Data Set1:
 
 
 Qingping Tao Ph. D. MAKING EFFICIENT LEARNING ALGORITHMS WITH EXPONENTIALLY MANY FEATURES. Qingping Tao A DISSERTATION Faculty of The Graduate College University of Nebraska In Partial Fulfillment of Requirements. 2004. [View Context].
@@ -140,6 +113,6 @@ Huan Liu. A Family of Efficient Rule Generators. Department of Information Syste
 
 
 
-Citation Request:
+# Citation Request:
 
 Please refer to the Machine Learning Repository's citation policy
